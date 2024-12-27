@@ -1,0 +1,170 @@
+{
+  "Tables": [
+    {
+      "Table_ID": 1,
+      "Table_Name": "รหัสค่าขนส่ง 11030 4W ส่งกล่อง ระยะ 30 กม."
+    },
+    {
+      "Table_ID": 2,
+      "Table_Name": "รหัสค่าขนส่ง 11030 4W ส่งกล่อง ระยะ 30 กม. (Duplicate Table 2)"
+    },
+    {
+      "Table_ID": 3,
+      "Table_Name": "รหัสค่าขนส่ง 11030 4W ส่งกล่อง ระยะ 30 กม. (Duplicate Table 3)"
+    }
+  ],
+  "Trips": [
+    {
+      "Trip_ID": 1,
+      "Table_ID": 1,
+      "Date": "05-Nov-24",
+      "Trip_Code": "A67005900",
+      "Vehicle_License": "จดก-7680",
+      "Driver_Name": "สิรินธร โฆษฤทธิ์",
+      "Container_Number": "49227323",
+      "Inbound_Tons": 2.03,
+      "Outbound_Tons": 2.29,
+      "Dif_Tons": 0.26,
+      "Base_Cost": 678.0,
+      "Adjustment": "3% (20.61)",
+      "Final_Cost": 707.61
+    },
+    {
+      "Trip_ID": 2,
+      "Table_ID": 1,
+      "Date": "05-Nov-24",
+      "Trip_Code": "A67005900",
+      "Vehicle_License": "จดก-7680",
+      "Driver_Name": "สิรินธร โฆษฤทธิ์",
+      "Container_Number": "49227323",
+      "Inbound_Tons": 2.03,
+      "Outbound_Tons": 2.29,
+      "Dif_Tons": 0.26,
+      "Base_Cost": 678.0,
+      "Adjustment": "3% (20.61)",
+      "Final_Cost": 707.61
+    },
+    {
+      "Trip_ID": 3,
+      "Table_ID": 1,
+      "Date": "05-Nov-24",
+      "Trip_Code": "A67005900",
+      "Vehicle_License": "จดก-7680",
+      "Driver_Name": "สิรินธร โฆษฤทธิ์",
+      "Container_Number": "49227323",
+      "Inbound_Tons": 2.03,
+      "Outbound_Tons": 2.29,
+      "Dif_Tons": 0.26,
+      "Base_Cost": 678.0,
+      "Adjustment": "3% (20.61)",
+      "Final_Cost": 707.61
+    },
+    {
+      "Trip_ID": 4,
+      "Table_ID": 1,
+      "Date": "05-Nov-24",
+      "Trip_Code": "A67005900",
+      "Vehicle_License": "จดก-7680",
+      "Driver_Name": "สิรินธร โฆษฤทธิ์",
+      "Container_Number": "49227323",
+      "Inbound_Tons": 2.03,
+      "Outbound_Tons": 2.29,
+      "Dif_Tons": 0.26,
+      "Base_Cost": 678.0,
+      "Adjustment": "3% (20.61)",
+      "Final_Cost": 707.61
+    },
+    {
+      "Trip_ID": 5,
+      "Table_ID": 1,
+      "Date": "05-Nov-24",
+      "Trip_Code": "A67005900",
+      "Vehicle_License": "จดก-7680",
+      "Driver_Name": "สิรินธร โฆษฤทธิ์",
+      "Container_Number": "49227323",
+      "Inbound_Tons": 2.03,
+      "Outbound_Tons": 2.29,
+      "Dif_Tons": 0.26,
+      "Base_Cost": 678.0,
+      "Adjustment": "3% (20.61)",
+      "Final_Cost": 707.61
+    },
+    {
+      "Trip_ID": 6,
+      "Table_ID": 2,
+      "Date": "05-Nov-24",
+      "Trip_Code": "A67005900",
+      "Vehicle_License": "จดก-7680",
+      "Driver_Name": "สิรินธร โฆษฤทธิ์",
+      "Container_Number": "49227323",
+      "Inbound_Tons": 2.03,
+      "Outbound_Tons": 2.29,
+      "Dif_Tons": 0.26,
+      "Base_Cost": 678.0,
+      "Adjustment": "3% (20.61)",
+      "Final_Cost": 707.61
+    },
+    {
+      "Trip_ID": 7,
+      "Table_ID": 2,
+      "Date": "05-Nov-24",
+      "Trip_Code": "A67005900",
+      "Vehicle_License": "จดก-7680",
+      "Driver_Name": "สิรินธร โฆษฤทธิ์",
+      "Container_Number": "49227323",
+      "Inbound_Tons": 2.03,
+      "Outbound_Tons": 2.29,
+      "Dif_Tons": 0.26,
+      "Base_Cost": 678.0,
+      "Adjustment": "3% (20.61)",
+      "Final_Cost": 707.61
+    },
+    {
+      "Trip_ID": 8,
+      "Table_ID": 3,
+      "Date": "05-Nov-24",
+      "Trip_Code": "A67005900",
+      "Vehicle_License": "จดก-7680",
+      "Driver_Name": "สิรินธร โฆษฤทธิ์",
+      "Container_Number": "49227323",
+      "Inbound_Tons": 2.03,
+      "Outbound_Tons": 2.29,
+      "Dif_Tons": 0.26,
+      "Base_Cost": 678.0,
+      "Adjustment": "3% (20.61)",
+      "Final_Cost": 707.61
+    }
+  ],
+  "Summary": [
+    {
+      "Summary_ID": 1,
+      "Table_ID": 1,
+      "Total_Trips": 5,
+      "Distance_KM": 30,
+      "Cost_per_Trip": 687,
+      "Total_Cost_Before_Adjustment": 3435.0,
+      "Total_Adjustment": 103.5,
+      "Total_Cost_After_Adjustment": 3538.5
+    },
+    {
+      "Summary_ID": 2,
+      "Table_ID": 2,
+      "Total_Trips": 5,
+      "Distance_KM": 30,
+      "Cost_per_Trip": 687,
+      "Total_Cost_Before_Adjustment": 3435.0,
+      "Total_Adjustment": 103.5,
+      "Total_Cost_After_Adjustment": 3538.5
+    },
+    {
+      "Summary_ID": 3,
+      "Table_ID": 3,
+      "Total_Trips": 5,
+      "Distance_KM": 30,
+      "Cost_per_Trip": 687,
+      "Total_Cost_Before_Adjustment": 3435.0,
+      "Total_Adjustment": 103.5,
+      "Total_Cost_After_Adjustment": 3538.5
+    }
+  ]
+}
